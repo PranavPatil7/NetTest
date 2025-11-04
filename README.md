@@ -1,4 +1,4 @@
-# Network Unit Testing System
+# NetTest – Network Unit Testing Automation Framework                                                            
 
 ## Introduction
 
@@ -156,12 +156,3 @@ Still, it is possible to write your own test classes nevertheless, even if we ca
 * 2023 - [assertEqual(IntendedState, ActualState)](https://campusnetworkengineering.com/posts/intended_vs_actual/) blog post.
 * 2017 - [Network Unit Testing](https://www.swinog.ch/wp-content/uploads/2018/07/Urs_Baumann_Network_Unit_Testing_with_SaltStack.pdf) presentation at SwiNOG 32 - *This presentation covers the older version, which uses SaltStack.*
 
-# Thanks
-
-* [Urs Baumann](https://github.com/ubaumann/), for originating the idea, supervising the development, and serving as the project owner
-* Andreas Stalder and David Meister, for developing the first version based on SaltStack in their term project
-* Mike Schmid and Janik Schlatter, implemented the first version using Nornir in their term project.
-* [Matthias Gabriel](https://github.com/MatthiasGabriel), who laid the foundations of nuts as a pytest plugin.
-* [Marco Martinez](https://github.com/marcom4rtinez) and [Severin Grimm](https://github.com/Sevitama), added more test cases and interviewed companies in their term project.
-* [Méline Sieber](https://github.com/bytinbit), [Lukas Murer](https://github.com/lucmurer), for maintenance during your working hours at the INS
-* [Florian Bruhin (The Compiler)](https://github.com/The-Compiler) for invaluable feedback and advice.
